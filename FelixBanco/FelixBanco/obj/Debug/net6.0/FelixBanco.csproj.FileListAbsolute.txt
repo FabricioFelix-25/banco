@@ -1,0 +1,15 @@
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.csproj.AssemblyReference.cache
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.AssemblyInfoInputs.cache
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.AssemblyInfo.cs
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.csproj.CoreCompileInputs.cache
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\bin\Debug\net6.0\FelixBanco.exe
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\bin\Debug\net6.0\FelixBanco.deps.json
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\bin\Debug\net6.0\FelixBanco.runtimeconfig.json
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\bin\Debug\net6.0\FelixBanco.dll
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\bin\Debug\net6.0\FelixBanco.pdb
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.dll
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\refint\FelixBanco.dll
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.pdb
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\FelixBanco.genruntimeconfig.cache
+C:\Users\fgb87\source\repos\FelixBanco\FelixBanco\obj\Debug\net6.0\ref\FelixBanco.dll
